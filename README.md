@@ -1,5 +1,7 @@
 # Sales Dashboard 2024
 
+![Vorschau des Sales Dashboard 2024](sales-dashboard-2024.png)
+
 ## Projektübersicht
 
 Dieses Projekt entstand im Rahmen meiner Umschulung im Bereich Data Analytics. Das interaktive Power-BI-Dashboard dient zur Analyse von Umsatz, Gewinn und regionaler Verkaufsentwicklung im Jahr 2024.
